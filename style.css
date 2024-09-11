@@ -106,7 +106,7 @@ footer p {
 
 @font-face {
     font-family: 'Alkhemikal';
-    src: url('Alkhemikal.ttf') format('truetype');
+    src: url('fonts/Alkhemikal.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }

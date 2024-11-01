@@ -22,12 +22,13 @@ h2 {
 body {
     font-family: 'Uncial Antiqua', serif;
     line-height: 1.6;
-    color: #e7e2e2;
+    color: #070303;
+    font-size: large;
 }
 
 header {
     background: #09bae6;
-    color: #fff;
+    color: #444242;
     padding: 10px;
     display: flex;
     flex-direction: column;
@@ -66,9 +67,10 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #080808;
     text-decoration: none;
     font-weight: bold;
+    font-size: large;
 }
 
 nav ul li a:hover {
@@ -85,9 +87,10 @@ section {
 }
 
 #adventure {
-    background: #353232;
+    background: #1b376b;
     padding: 20px;
     text-align: center;
+    font-size: large;
 }
 
 #adventure .button,
@@ -111,7 +114,17 @@ section {
 }
 
 .movement {
-    text-align: center;
+    overflow: auto;
+}
+
+.image {
+    float: right;
+    width: 400px;
+    margin-left: 20px;
+}
+
+.text {
+    width: 75%;
 }
 
 footer {

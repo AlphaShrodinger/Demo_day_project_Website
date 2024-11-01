@@ -24,11 +24,29 @@ body {
     line-height: 1.6;
     color: #070303;
     font-size: large;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+
+#theme-toggle {
+    padding: 5px 10px;
+    cursor: pointer;
+    margin: 10px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border-radius: 5px;
+    border: none;
 }
 
 header {
     background: #09bae6;
-    color: #444242;
+    color: #fdfdfd;
     padding: 10px;
     display: flex;
     flex-direction: column;

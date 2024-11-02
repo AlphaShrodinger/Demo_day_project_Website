@@ -42,6 +42,7 @@ body {
     right: 10px;
     border-radius: 5px;
     border: none;
+    background-color: #007BFF;
 }
 
 header {
@@ -143,6 +144,16 @@ section {
 
 .text {
     width: 75%;
+}
+
+.contact {
+    text-indent: 0;
+}
+
+.contact a {
+    margin-right: 20px;
+    display: inline-block;
+    text-decoration: none;
 }
 
 footer {

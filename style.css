@@ -86,10 +86,10 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #080808;
+    color: #f8f4f4;
     text-decoration: none;
     font-weight: bold;
-    font-size: large;
+    font-size: x-large;
 }
 
 nav ul li a:hover {
@@ -142,9 +142,31 @@ section {
     margin-left: 20px;
 }
 
-.text {
-    width: 75%;
+.imageL {
+    float: left;
+    width: 400px;
+    margin-right: 20px;
 }
+
+.text {
+    width: 95%;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+
+.image-box {
+    text-align: center;
+}
+
+.image-box img {
+    width: 100%;
+    max-width: 200px;
+}
+
 
 .contact {
     text-indent: 0;

@@ -23,14 +23,14 @@ body {
     font-family: 'Uncial Antiqua', serif;
     line-height: 1.6;
     color: #070303;
-    font-size: large;
+    font-size: x-large;
     transition: background-color 0.3s, color 0.3s;
 }
 
 .dark-mode {
     background-color: black;
     color: white;
-    font-size: large;
+    font-size: x-large;
 }
 
 #theme-toggle {
@@ -54,6 +54,8 @@ header {
     align-items: center;
     position: relative;
     font-family: 'Alkhemikal', sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
 }
 
 header img {
@@ -73,6 +75,8 @@ header h1 {
     font-family: 'Alkhemikal', sans-serif;
     margin-top: 0;
     margin-bottom: 10px;
+    font-size: xx-large;
+    font-weight: bold;
 }
 
 nav ul {

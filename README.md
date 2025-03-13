@@ -14,9 +14,9 @@ Project by: <br>
 
 ## How was the Website developed
 
-<p> &nbsp;&nbsp;&nbsp; The website in itself was centered around the game, as it is a complementary page, It has information about the game, a downoal link as well as section where you can read a summarizeed version as how the fame was created.
-<br>
-The website was designed using basic structures and programing languages such as:</p>
+<p> &nbsp;&nbsp;&nbsp; The website in itself was centered around the game, as it is a complementary page, It has information about the game, a downoal link as well as section where you can read a summarizeed version as how the fame was created.</p>
+
+The website was designed using basic structures and programing languages such as:
 
 -**HTML**
 -**CSS**

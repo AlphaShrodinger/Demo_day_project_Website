@@ -10,4 +10,4 @@ Project by: <br>
 
 ## What is this website for?
 
-<p> This website was designed for mostly estetic and an access source for a videogame i developed with [Louis Martines] called Dungeons of Stone. You can find more about the game on either the website itself or in the project repository of the game <br>[Dungeons of Stone] <br>(https://github.com/LouisTenebrae/Demo_day_project_Game) </p>
+<p> This website was designed for mostly estetic and an access source for a videogame i developed with [Louis Martines] called Dungeons of Stone. You can find more about the game on either the website itself or in the project repository of the game[Dungeons of Stone](https://github.com/LouisTenebrae/Demo_day_project_Game) </p>

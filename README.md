@@ -18,8 +18,12 @@ Project by: <br>
 
 The website was designed using basic structures and programing languages such as:
 
+<br>
 -**HTML**
+<br>
 -**CSS**
+<br>
 -**JavaScript**
+<br>
 
 <p> &nbsp;&nbsp;&nbsp; This website came to be as part of a project we had to develope in school, where we put our effort and inspiration to work on the best of our abilities at the time. The game was co-developed by me and my parter Louis Martines, however the website was mostly my creation wich some of my colleages imput. </p>
